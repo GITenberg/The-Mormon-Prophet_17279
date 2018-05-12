@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6678
     wikipedia: http://www2.marianopolis.edu/quebechistory/encyclopedia/LilyDougall-QuebecHistory.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17279#The-Mormon-Prophet
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2005-12-11'
 gutenberg_type: Text
